@@ -57,4 +57,4 @@ ldconfig -p | grep libipopt
 
 3.运行sh文件安装ipopt
 
-./install_ipopt.sh
+```./install_ipopt.sh```
