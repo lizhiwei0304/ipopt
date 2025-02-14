@@ -53,12 +53,7 @@ ldconfig -p | grep libipopt
 
 2.给sh文件赋权限
 
-
-
-[sudo chomx -i install_ipopt.sh](url)
-
-```sudo chomx -i install_ipopt.sh
-
+```sudo chomx -i install_ipopt.sh```
 
 3.运行sh文件安装ipopt
 
